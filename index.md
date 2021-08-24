@@ -33,7 +33,7 @@ Qapla, Jolan Tru!
 
 © 2021 --- Ivan Phanderson --- 22.37
 
-[K]: <TXT/mykey.txt>
+[K]: <TXT/mypubkey.txt>
 [R]: <TXT/myrank.txt>
 [L]: <TXT/mylog.txt>
 [G]: <https://github.com/ivanphanderson/os212>
