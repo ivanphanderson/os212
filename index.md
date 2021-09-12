@@ -8,9 +8,7 @@ This is Operating Systems 2021-2 (OS212) and I am Ivan Phanderson.
 
 **Important Links**
 
-[Home](.) | [Links][Li] | [Key][K] | [Rank][R] | [Log][L] | [GitHub][G]  
-
-<br/>
+[Home](.) | [Links][Li] | [Key][K] | [Rank][R] | [Log][L] | [GitHub][G]  <br>
 
 Qapla, Jolan Tru!
 
