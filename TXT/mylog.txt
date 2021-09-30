@@ -51,3 +51,17 @@ ZCZC W03  10 L18 Assignment #08
 ZCZC W03   5 L19 Assignment #09
 ZCZC W03  25 L22 Quiz
 ZCZC W03   5 L62 Backup Virtual Debian Guest
+ZCZC W04  30 L01 SCELE/Discord related
+ZCZC W04 150 L02 ZOOM meetings related
+ZCZC W04  60 L05 Studying for quiz
+ZCZC W04  60 L11 Assignment #01
+ZCZC W04  50 L12 Assignment #02
+ZCZC W04  60 L13 Assignment #03
+ZCZC W04   5 L14 Assignment #04
+ZCZC W04  30 L15 Assignment #05
+ZCZC W04  10 L16 Assignment #06
+ZCZC W04  20 L17 Assignment #07
+ZCZC W04  10 L18 Assignment #08
+ZCZC W04   5 L19 Assignment #09
+ZCZC W04  25 L22 Quiz
+ZCZC W04   5 Backup Virtual Debian Guest
