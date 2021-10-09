@@ -35,4 +35,7 @@ Beberapa topik terkait file system dibahas di website ini. Penjelasannya yang ti
 Materi minggu ke-4 banyak membahas terkait C Pointers. Jika Anda masih bingung dengan demo yang diberikan, website ini dapat mungkin dapat membantu Anda memahami C Pointers melalui penjelasan-penjelasannya yang keren.
 
 11. [Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
-Situs ini membahas pengertian dan cara menggunakan malloc(), calloc(), free(), dan realloc(). Situsnya sangat menarik karena setiap subtopik yang dibahas, selalu dilengkapi dengan contoh dan visualisasinya
+Situs ini membahas pengertian dan cara menggunakan malloc(), calloc(), free(), dan realloc(). Situsnya sangat menarik karena setiap subtopik yang dibahas, selalu dilengkapi dengan contoh dan visualisasinya.
+
+12. [Paging in Operating System(OS)](https://www.guru99.com/paging-in-operating-system.html)<br>
+Website ini membahas beberapa materi terkait paging yang mencakup keuntungan dan kerugiannya juga. Pembagian dan penekanan per-poinnya cukup jelas sehingga membuat website ini menarik untuk dibaca.
