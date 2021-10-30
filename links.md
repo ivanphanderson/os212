@@ -39,3 +39,12 @@ Situs ini membahas pengertian dan cara menggunakan malloc(), calloc(), free(), d
 
 12. [Paging in Operating System(OS)](https://www.guru99.com/paging-in-operating-system.html)<br>
 Website ini membahas beberapa materi terkait paging yang mencakup keuntungan dan kerugiannya juga. Pembagian dan penekanan per-poinnya cukup jelas sehingga membuat website ini menarik untuk dibaca.
+
+13. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Materi terkait virtual memory bukanlah sesuatu yang mudah untuk dipelajari. Akan tetapi, penjelasan yang diberikan pada website ini membuat kita menjadi sangat mudah untuk memahaminya.
+
+14. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+Perkuliahan minggu ke-6 banyak membahas topik fork. Website ini sangat membantu dalam memberikan pemahaman terkait cara kerja fork. Contoh-contoh yang diberikan juga cukup jelas.
+
+15. [Race Condition](https://searchstorage.techtarget.com/definition/race-condition)<br>
+Salah satu tugas minggu ke-6 adalah mengamati race condition yang terjadi pada file fork2.c. Website ini menjelaskan lebih detail terkait race condition dan cara-cara untuk mencegahnya.
