@@ -48,3 +48,12 @@ Perkuliahan minggu ke-6 banyak membahas topik fork. Website ini sangat membantu 
 
 15. [Race Condition](https://searchstorage.techtarget.com/definition/race-condition)<br>
 Salah satu tugas minggu ke-6 adalah mengamati race condition yang terjadi pada file fork2.c. Website ini menjelaskan lebih detail terkait race condition dan cara-cara untuk mencegahnya.
+
+16. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Sinkronisasi merupakan salah satu materi minggu ke-7 di mata kuliah Sistem Operasi. Website ini dapat dibaca untuk memperkuat konsep Anda terkait sinkronisasi
+
+17. [All about Semaphores in Operating System](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
+Website ini membahas segala hal yang berhubungan dengan semaphore. Merupakan sebuah website yang wajib dibaca untuk meningkatkan pengetahuan Anda terkait semaphore
+
+18. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Situs ini mengulas beberapa materi terkait deadlock. Sangat menarik karena dilengkapi dengan visualisasinya dan juga contoh soal terkait deadlock
