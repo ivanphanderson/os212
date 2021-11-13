@@ -61,5 +61,5 @@ Situs ini mengulas beberapa materi terkait deadlock. Sangat menarik karena dilen
 19. [Process Scheduling: Long, Medium, Short Term Scheduler](https://www.guru99.com/process-scheduling.html)<br>
 Schedulling telah menjadi salah satu topik menarik untuk dipelajari. Website ini memberikan penjelasan terkait proses scheduling, perbedaan antara long, medium, dan short term scheduler, beserta rangkuman dari ketiganya.
 
-20. [Linux from Scratch – Is it worth it?](https://0xc0decafe.com/linux-from-scratch-is-it-worth-it/)<br>
-Tugas dari minggu ke-8 hingga minggu ke-10 adalah membuat Linux from scratch. Situs ini menjelaskan manfaat-manfaat yang diperoleh dari mengerjakan tugas ini yang dapat dijadikan sebagai motivasi untuk menyelesaikan tugas minggu ke-8 hingga minggu ke-10.
+20. [Operating System Scheduling algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+Website ini membahas algoritma yang dipakai untuk scheduling di sistem operasi. Cukup menarik karena kita jadi dapat memperdalam pemahaman terkait scheduling melalui contoh-contoh pada website ini.
