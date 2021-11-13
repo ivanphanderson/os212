@@ -50,10 +50,16 @@ Perkuliahan minggu ke-6 banyak membahas topik fork. Website ini sangat membantu 
 Salah satu tugas minggu ke-6 adalah mengamati race condition yang terjadi pada file fork2.c. Website ini menjelaskan lebih detail terkait race condition dan cara-cara untuk mencegahnya.
 
 16. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
-Sinkronisasi merupakan salah satu materi minggu ke-7 di mata kuliah Sistem Operasi. Website ini dapat dibaca untuk memperkuat konsep Anda terkait sinkronisasi
+Sinkronisasi merupakan salah satu materi minggu ke-7 di mata kuliah Sistem Operasi. Website ini dapat dibaca untuk memperkuat konsep Anda terkait sinkronisasi.
 
 17. [All about Semaphores in Operating System](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
-Website ini membahas segala hal yang berhubungan dengan semaphore. Merupakan sebuah website yang wajib dibaca untuk meningkatkan pengetahuan Anda terkait semaphore
+Website ini membahas segala hal yang berhubungan dengan semaphore. Merupakan sebuah website yang wajib dibaca untuk meningkatkan pengetahuan Anda terkait semaphore.
 
 18. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
-Situs ini mengulas beberapa materi terkait deadlock. Sangat menarik karena dilengkapi dengan visualisasinya dan juga contoh soal terkait deadlock
+Situs ini mengulas beberapa materi terkait deadlock. Sangat menarik karena dilengkapi dengan visualisasinya dan juga contoh soal terkait deadlock.
+
+19. [Process Scheduling: Long, Medium, Short Term Scheduler](https://www.guru99.com/process-scheduling.html)<br>
+Schedulling telah menjadi salah satu topik menarik untuk dipelajari. Website ini memberikan penjelasan terkait proses scheduling, perbedaan antara long, medium, dan short term scheduler, beserta rangkuman dari ketiganya.
+
+20. [Linux from Scratch – Is it worth it?](https://0xc0decafe.com/linux-from-scratch-is-it-worth-it/)<br>
+Tugas dari minggu ke-8 hingga minggu ke-10 adalah membuat Linux from scratch. Situs ini menjelaskan manfaat-manfaat yang diperoleh dari mengerjakan tugas ini yang dapat dijadikan sebagai motivasi untuk menyelesaikan tugas minggu ke-8 hingga minggu ke-10.
